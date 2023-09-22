@@ -30,7 +30,8 @@ body {
 /* Media Quary */
 @media screen and (max-width: 770px) {
 
-    #hidden-mobile {
+    #hidden-mobile,
+    #nav-search {
         display: none;
     }
 
