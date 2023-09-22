@@ -34,6 +34,11 @@ body {
         display: none;
     }
 
+    #whychoose_pc {
+        display: none;
+        align-items: center;
+    }
+
     body {
         justify-content: center;
     }
