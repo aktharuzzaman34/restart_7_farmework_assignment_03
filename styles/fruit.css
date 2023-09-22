@@ -21,3 +21,21 @@ body {
     background-image: url(../images/banner4.png);
     background-repeat: no-repeat;
 }
+
+/* Media Quary */
+@media screen and (max-width: 770px) {
+    #hidden-mobile {
+        display: none;
+    }
+
+    body {
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width:770px) and (max-width:1050px) {
+    #hidden-mobile {
+        margin-top: 10px;
+        margin-left: 130px;
+    }
+}
