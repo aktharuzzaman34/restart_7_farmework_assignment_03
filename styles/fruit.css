@@ -22,6 +22,11 @@ body {
     background-repeat: no-repeat;
 }
 
+.team-section {
+    background-image: url(../images/team.png);
+    background-repeat: no-repeat;
+}
+
 /* Media Quary */
 @media screen and (max-width: 770px) {
     #hidden-mobile {
